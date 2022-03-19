@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {//зцщзцщй
         super.onCreate(savedInstanceState);
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
